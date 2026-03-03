@@ -1,10 +1,15 @@
-I am an aspiring cybersecurity professional with a strong focus on hands-on threat hunting and investigative analysis. I am actively building practical experience through structured lab environments and real-world style investigations aligned to the MITRE ATT&CK framework.
+# 🔐 Cybersecurity | Threat Hunting | SOC Operations
 
-My work focuses on understanding how attacks unfold — from suspicious process execution to data staging and exfiltration techniques — and documenting findings with clear methodology and technical analysis. Each project in this portfolio represents deliberate practice in detection engineering, incident investigation, and security operations.
+I am a cybersecurity practitioner specialising in hands-on threat hunting and incident investigation within Microsoft-focused environments.
 
-I believe cybersecurity is best learned through doing. This GitHub reflects my commitment to continuous learning, technical growth, and building real defensive capability.
+This portfolio demonstrates practical experience with structured investigations aligned to the MITRE ATT&CK framework, using tools such as Microsoft Sentinel, Microsoft Defender, and KQL. Each project showcases:
 
-Feel free to explore my projects and follow my journey as I develop into a security-focused professional.
+- Log analysis and detection engineering  
+- Adversary behaviour mapping and incident investigation  
+- Vulnerability management and risk prioritisation  
+- Clear, actionable technical documentation  
+
+These repositories reflect deliberate practice and readiness for operational SOC work.
 
 
 ## Vulnerability Management Projects
