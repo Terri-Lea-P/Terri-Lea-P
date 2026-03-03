@@ -13,3 +13,12 @@ Feel free to explore my projects and follow my journey as I develop into a secur
 
 
 
+
+
+## Threat Hunting Projects
+
+- [Threat Hunting Portfolio](https://github.com/Terri-Lea-P/threat-hunting-portfolio)
+- [Threat Hunting Scenario TOR](https://github.com/Terri-Lea-P/threat-hunting-scenario-tor)
+
+
+
