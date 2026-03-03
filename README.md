@@ -9,7 +9,7 @@ Feel free to explore my projects and follow my journey as I develop into a secur
 
 ## Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/Terri-Lea-P/vulnerability-management-program)
+- [Vulnerability Management Program Implementation](https://github.com/Terri-Lea-P/vulnerability-management-program)
 
 
 
