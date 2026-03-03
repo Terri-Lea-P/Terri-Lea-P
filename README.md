@@ -1,16 +1,15 @@
-## Hi there 👋
+I am an aspiring cybersecurity professional with a strong focus on hands-on threat hunting and investigative analysis. I am actively building practical experience through structured lab environments and real-world style investigations aligned to the MITRE ATT&CK framework.
 
-<!--
-**Terri-Lea-P/Terri-Lea-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My work focuses on understanding how attacks unfold — from suspicious process execution to data staging and exfiltration techniques — and documenting findings with clear methodology and technical analysis. Each project in this portfolio represents deliberate practice in detection engineering, incident investigation, and security operations.
 
-Here are some ideas to get you started:
+I believe cybersecurity is best learned through doing. This GitHub reflects my commitment to continuous learning, technical growth, and building real defensive capability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my projects and follow my journey as I develop into a security-focused professional.
+
+
+## Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/Terri-Lea-P/vulnerability-management-program)
+
+
+
